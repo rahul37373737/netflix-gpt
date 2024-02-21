@@ -72,6 +72,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 #Netflix Gpt 
 -create React app
 tailwind 
+header 
+Routing 
+login form 
+Sign up form
+form validation useref
+firebase aithentication
+firebase deployment 
+create signup user account 
+implement signin  user api 
+created Redux store with userSlice
+
 # featues
 login sign up
   -signin/sign up form 
